@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "parent"
+description: "parent bundle"
+plugins:
+  - "not-existing.yaml"

@@ -1,0 +1,5 @@
+apiVersion: "1"
+version: "1"
+id: "orphan"
+description: "bundle with no inheritance changed"
+parent: "bundle-1"
