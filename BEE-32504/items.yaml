@@ -1,4 +1,4 @@
 removeStrategy:
   rbac: SYNC
   items: REMOVE-ALL
-  mike
+  
