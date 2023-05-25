@@ -1,0 +1,4 @@
+apiVersion: "1"
+version: "3"
+id: "orphan"
+description: "new bundle with no inheritance - remote"
